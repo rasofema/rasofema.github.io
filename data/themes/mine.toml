@@ -1,0 +1,23 @@
+# Theme metadata
+name = "Mine"
+
+[light]
+  # Primary
+  primary = "rgb(21, 159, 214)"
+
+  # Menu
+  menu_primary = "rgb(219, 241, 255)"
+  menu_text = "rgb(21 159 214)"
+  menu_text_active = "rgba(255,255,255,1)"
+  menu_title = "rgb(153, 153, 153)"
+  
+
+[dark]
+  # Primary
+  primary = "rgb(21 159 214)"
+
+  # Menu
+  menu_primary = "rgb(11, 32, 46)"
+  menu_text = "rgb(21 159 214)"
+  menu_text_active = "rgba(255,255,255,1)"
+  menu_title = "rgb(153, 153, 153)"

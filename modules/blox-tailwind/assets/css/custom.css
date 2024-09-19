@@ -1,0 +1,12 @@
+.vertical-center {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+div.horizontalgap {
+    float: left;
+    overflow: hidden;
+    height: 1px;
+    width: 0px;
+}
