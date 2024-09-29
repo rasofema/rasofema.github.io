@@ -6,6 +6,10 @@ cms_exclude: true
 # View
 view: card
 
+# Originals
+# Interviews
+# Featured
+
 # Optional cover image (relative to `assets/media/` folder).
 image:
   caption: ''

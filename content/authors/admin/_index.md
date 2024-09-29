@@ -29,43 +29,100 @@ education:
     institution: Imperial College London
     date_start: 2024-10-01
     date_end: 2029-10-01
-    # summary: |
-    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
+    show: true
+    summary: |
+      - Research area: Incorrectness Logic
+      - Supervisor: Dr Azalea Raad
+      - Funding: Teaching Scholarship
   - area: MEng Computer Science
     institution: University College London
-    date_start: 2010-10-01
+    date_start: 2020-09-01
     date_end: 2024-07-01
+    show: true
     summary: |
-      Grade: 1st Class
- 
+      - Classification: First Class Honours
+      - Master's Thesis Supervisors: Tiago Ferreira & Alexandra Silva
+  - area: Year Abroad in Computer Science
+    institution: ETH Zurich
+    show: false
+    date_start: 2022-09-01
+    date_end: 2023-09-01
+  - area: CertHE Music Performance
+    institution: University of West London
+    show: false
+    date_start: 2019-09-01
+    date_end: 2020-07-01
 
-# work:
-#   - position: Director of Cloud Infrastructure
-#     company_name: GenCoin
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2021-01-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - position: Backend Software Engineer
-#     company_name: X
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2016-01-01
-#     date_end: 2020-12-31
-#     summary: |
-#       Responsibilities include:
-#       - Migrated infrastructure to a new data center
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
+# Work Experience
+
+
+research:
+  - position: Undergraduate Research Assistant
+    company_name: UCL-CS PPLV Group
+    company_url: 'http://pplv.cs.ucl.ac.uk/welcome/'
+    company_logo: 'https://avatars.githubusercontent.com/u/16016060?s=280&v=4'
+    date_start: 2022-06-01
+    date_end: 2024-08-01
+    summary: |
+      - Researched active model learning of black-box noisy and evolving systems
+      - Worked on C3AL framework for model learning with conflict-resolution abilities (Integrated in LearnLib)
+
+teaching:
+  - position: Teaching Assistant
+    company_name: University College London
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-09-01
+    date_end: 2024-04-01
+    summary: |-
+      - Compilers
+      - Applied Software Engineering
+  - position: Programming Tutor
+    company_name: University College London
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-09-01
+    date_end: 2023-12-01
+    summary: |
+      - Delivered weekly programming classes to 1st-year undergraduate students
+  - position: Transition Mentor
+    company_name: University College London
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-09-01
+    date_end: 2021-12-01
+    summary: |
+      - Delivered weekly sessions to 1st-year undergrads to support their academic and personal transition into university life
+work:
+  - position: Engineering Summer Analyst
+    company_name: Goldman Sachs
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-06-01
+    date_end: 2023-08-31
+
+responsibilities:
+  - position: Resident Advisor
+    company_name: College Hall (University of London)
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-05-01
+    date_end: 2024-08-01
+    summary: |-
+      - Attended to staff and residents during duty shifts
+      - Helped with facility maintenance, safety and security
+      - Promoted good student welfare and the development of hall community
+  - position: Student Ambassador
+    company_name: University College London
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-07-01
+    date_end: 2024-08-01
+    summary: |
+      - Supported the graduation ceremonies and open days
+      - Assisted with student induction during the welcome week
+      - Created Engineering, Careers and Study Abroad video content
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
