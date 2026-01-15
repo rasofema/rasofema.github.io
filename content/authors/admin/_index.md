@@ -19,9 +19,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Program Logics
-  - Verification
-  - Formal Methods
+  - Incorrectness Logic
+  - Static Analysers
+  - Programming Languages
 
 # Education to show in About widget
 education:
