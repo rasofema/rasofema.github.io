@@ -159,4 +159,4 @@ email: 'r.silva@imperial.ac.uk'
 highlight_name: true
 ---
 
-I am a 1st-year Computing PhD Student and Teaching Scholar at [Imperial College London](https://www.imperial.ac.uk/), working in Incorrectness Logic under the supervision of [Azalea Raad](https://www.soundandcomplete.org/) as part of the [Veritas Lab](https://www.soundandcomplete.org/veritas.html).
+I am a 2nd-year Computing PhD Student and Teaching Scholar at [Imperial College London](https://www.imperial.ac.uk/), working in Program Logics and Verification under the supervision of [Azalea Raad](https://www.soundandcomplete.org/) and [Sacha-Élie Ayoun](https://giltho.github.io/) as part of the [Veritas Lab](https://www.soundandcomplete.org/veritas.html).
